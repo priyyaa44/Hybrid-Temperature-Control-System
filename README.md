@@ -22,7 +22,7 @@ machine learning models to predict temperature behavior and control actions.
 Sensor → Arduino → PID Controller → TRIAC Dimmer → Heater  
 Sensor Data → Python → ML Model → Streamlit Dashboard
 
-![Control Flow Diagram](hardware/control_flowchart.jpg)
+![Control Flow Diagram](hardware/control_flowchart.jpeg)
 
 
 ## Hardware Components
@@ -36,7 +36,7 @@ Sensor Data → Python → ML Model → Streamlit Dashboard
 - 16x2 LCD Display
 - Potentiometer
 
-![Experimental Hardware Setup](hardware/hardware_setup.jpg)
+![Experimental Hardware Setup](hardware/hardware_setup.jpeg)
 
 
 ## Software & Tools
@@ -84,7 +84,7 @@ A Streamlit dashboard provides:
 - Sensor comparison
 - ML-based prediction output
 
-![ML-Based Dashboard Prediction](results/dashboard_prediction.jpg)
+![ML-Based Dashboard Prediction](results/dashboard_prediction.jpeg)
 
 
 ## Results
